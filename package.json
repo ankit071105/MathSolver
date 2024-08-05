@@ -1,0 +1,19 @@
+{
+  "name": "math-solver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "express": "^4.19.2",
+    "mathjs": "^13.0.3",
+    "multer": "^1.4.5-lts.1",
+    "tesseract.js": "^5.1.0"
+  }
+}
